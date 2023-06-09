@@ -1,6 +1,6 @@
 # BATACHI
 
-![the complete assembly](https://github.com/nicohmje/BATACHI/blob/main/Batachi_Leg.jpeg?raw=true)
+![the complete assembly](https://github.com/nicohmje/BATACHI/blob/main/IMG_0307.png?raw=true)
 
 Batachi is a BLDC-actuated Quadruped, inspired by the MIT Mini Cheetah, intended to be a learning platform for complex inverse dynamics and path planning.
 
